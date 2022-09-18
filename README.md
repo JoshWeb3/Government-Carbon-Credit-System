@@ -24,7 +24,7 @@ rejects the upgrades
 6. User calls redeemCredits() in mock tax credit program which subtracts token
 balance from tax amount due, carbon credits are then burned
 
-![image](https://user-images.githubusercontent.com/100609687/190924992-567bf597-c498-4b52-ae67-bc685854a74d.png)
+![image](https://user-images.githubusercontent.com/100609687/190928480-774b67a6-2e6e-4ad1-bd0e-4abcb0a29266.png)
 ![image](https://user-images.githubusercontent.com/100609687/190925002-a1fed611-027a-48d9-a174-aa65818576a9.png)
 
 **What we will continue:**
